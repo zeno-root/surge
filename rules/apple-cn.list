@@ -1,15 +1,11 @@
 # > Apple
 DOMAIN,itunes.apple.com
-DOMAIN-SUFFIX,mzstatic.com
 DOMAIN,osxapps.itunes.apple.com
-DOMAIN,ocsp.apple.com
 DOMAIN,weather-data.apple.com
 DOMAIN,www.apple.com
-DOMAIN,www.apple.com.cn
-DOMAIN-SUFFIX,www.apple.com.cn
 DOMAIN,amp-api.apps.apple.com
 DOMAIN,xp.apple.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN,configuration.apple.com
 DOMAIN,updates-http.cdn-apple.com
+DOMAIN,ocsp.apple.com
 DOMAIN,ocsp2.apple.com
