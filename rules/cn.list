@@ -2,15 +2,12 @@
 DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,qq.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bootcss.com
