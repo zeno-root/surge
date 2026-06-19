@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,CN
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,tencent
+DOMAIN-KEYWORD,aliyun
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdimg.com
@@ -14,7 +15,7 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,qcloud.com
-DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,douyin.com
