@@ -35,11 +35,11 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
 # > Facebook
 DOMAIN-KEYWORD,instagram
+DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-KEYWORD,oculus
 # > Netflix
 DOMAIN-KEYWORD,netflix
 DOMAIN-KEYWORD,nflx
