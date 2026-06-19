@@ -78,6 +78,8 @@ DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,spotify.com
+DOMAIN-KEYWORD,tiktok
+DOMAIN-SUFFIX,futunn.com
 # > Technical
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,git.io
@@ -93,8 +95,9 @@ DOMAIN-SUFFIX,kernel.org
 DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,termius.com
 DOMAIN-SUFFIX,figma.com
-DOMAIN-SUFFIX,orbstack.dev
 DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,orbstack.dev
 # > News
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,reuters.com
@@ -106,5 +109,3 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,yahoo.com
-DOMAIN-KEYWORD,tiktok
-DOMAIN-SUFFIX,futunn.com
