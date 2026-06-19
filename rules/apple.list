@@ -1,0 +1,14 @@
+# > Apple
+DOMAIN,timestamp.apple.com
+DOMAIN,radio-activity.itunes.apple.com
+DOMAIN,p42-caldav.icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN,developer.apple.com
+DOMAIN,apps.apple.com
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN,ocsp.verisign.net
+DOMAIN,gateway.icloud.com
+DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,mail.me.com
+DOMAIN,api.apple-cloudkit.com
