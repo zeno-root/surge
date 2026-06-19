@@ -1,4 +1,5 @@
 # > Apple
+DOMAIN,time.apple.com
 DOMAIN,timestamp.apple.com
 DOMAIN,p42-caldav.icloud.com
 DOMAIN-SUFFIX,icloud-content.com
