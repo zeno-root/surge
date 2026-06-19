@@ -17,7 +17,6 @@ DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,skype.com
 DOMAIN-SUFFIX,office.com
@@ -27,8 +26,8 @@ DOMAIN-SUFFIX,onenote.com
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,linkedin.com
-DOMAIN-SUFFIX,azurewebsites.net
-DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-KEYWORD,vscode
 # > Twitter & X
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
