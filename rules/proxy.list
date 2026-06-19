@@ -73,10 +73,11 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,yahoo.com
-#Gameing
+# > Gameing
 DOMAIN-SUFFIX,supercell.com
 # > Other
 DOMAIN-KEYWORD,discord
+DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,adobe
 DOMAIN-KEYWORD,reddit
@@ -102,7 +103,6 @@ DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-SUFFIX,weather.com
-DOMAIN-SUUFIX,okx.com
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
@@ -110,6 +110,6 @@ DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,spotify.com
-DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,okx.com
