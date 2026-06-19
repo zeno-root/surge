@@ -43,6 +43,36 @@ DOMAIN-KEYWORD,oculus
 # > Netflix
 DOMAIN-KEYWORD,netflix
 DOMAIN-KEYWORD,nflx
+# > Technical
+DOMAIN-KEYWORD,github
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,gitbooks.io
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,vmware.com
+DOMAIN-SUFFIX,centos.org
+DOMAIN-SUFFIX,kubernetes.io
+DOMAIN-SUFFIX,kernel.org
+DOMAIN-SUFFIX,stackoverflow.com
+DOMAIN-SUFFIX,termius.com
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,brew.sh
+DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,warp.dev
+DOMAIN-SUFFIX,orbstack.dev
+# > News
+DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,arstechnica.com
+DOMAIN-SUFFIX,macrumors.com
+DOMAIN-SUFFIX,theverge.com
+DOMAIN-SUFFIX,techcrunch.com
+DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wsj.net
+DOMAIN-SUFFIX,yahoo.com
 # > Other
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,dropbox
@@ -79,33 +109,4 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-KEYWORD,tiktok
 DOMAIN-SUFFIX,futunn.com
-# > Technical
-DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,python.org
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,pypi.org
-DOMAIN-SUFFIX,gitbooks.io
-DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,centos.org
-DOMAIN-SUFFIX,kubernetes.io
-DOMAIN-SUFFIX,kernel.org
-DOMAIN-SUFFIX,stackoverflow.com
-DOMAIN-SUFFIX,termius.com
-DOMAIN-SUFFIX,figma.com
-DOMAIN-SUFFIX,brew.sh
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,warp.dev
-DOMAIN-SUFFIX,orbstack.dev
-# > News
-DOMAIN-SUFFIX,bloomberg.com
-DOMAIN-SUFFIX,reuters.com
-DOMAIN-SUFFIX,arstechnica.com
-DOMAIN-SUFFIX,macrumors.com
-DOMAIN-SUFFIX,theverge.com
-DOMAIN-SUFFIX,techcrunch.com
-DOMAIN-SUFFIX,tradingview.com
-DOMAIN-SUFFIX,wsj.com
-DOMAIN-SUFFIX,wsj.net
-DOMAIN-SUFFIX,yahoo.com
+DOAMIN-SUFFIX,stripe.com
