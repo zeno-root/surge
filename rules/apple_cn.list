@@ -1,0 +1,14 @@
+# > Apple CN
+DOMAIN,www.apple.com
+DOMAIN,xp.apple.com
+DOMAIN,ocsp.apple.com
+DOMAIN,ocsp2.apple.com
+DOMAIN-SUFFIX,ls.apple.com
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,store.apple.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN,developer.apple.com
+DOMAIN,weatherkit.apple.com
+DOMAIN,weather-data.apple.com
+DOMAIN,updates-http.cdn-apple.com
+DOMAIN,stocks-data-service.apple.com
