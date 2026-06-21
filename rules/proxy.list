@@ -76,6 +76,7 @@ DOMAIN-SUFFIX,yahoo.com
 # > Game
 DOMAIN-SUFFIX,supercell.com
 # > Other
+DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,discord
 DOMAIN-KEYWORD,tiktok
 DOMAIN-KEYWORD,dropbox
