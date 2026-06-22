@@ -47,6 +47,7 @@ DOMAIN-KEYWORD,nflx
 DOMAIN-KEYWORD,github
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,python.org
+DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,pypi.org
 DOMAIN-SUFFIX,gitbooks.io
