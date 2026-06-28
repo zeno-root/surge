@@ -50,6 +50,7 @@ DOMAIN-SUFFIX,python.org
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,pypi.org
+DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,gitbooks.io
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,vmware.com
