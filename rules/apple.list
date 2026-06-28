@@ -10,3 +10,4 @@ DOMAIN,gateway.icloud.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,mail.me.com
 DOMAIN,api.apple-cloudkit.com
+DOMAIN,testflight.apple.com
