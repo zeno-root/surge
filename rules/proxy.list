@@ -70,7 +70,6 @@ DOMAIN-SUFFIX,arstechnica.com
 DOMAIN-SUFFIX,macrumors.com
 DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,techcrunch.com
-DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,yahoo.com
@@ -110,6 +109,7 @@ DOMAIN-SUFFIX,typekit.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,futunn.com
+DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,alfredapp.com
