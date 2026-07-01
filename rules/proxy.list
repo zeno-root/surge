@@ -13,6 +13,7 @@ DOMAIN-KEYWORD,youtube
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
 # > Microsoft
+DOMAIN-KEYWORD,vscode
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
@@ -28,7 +29,6 @@ DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,cloud.microsoft
-DOMAIN-KEYWORD,vscode
 # > Twitter & X
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
