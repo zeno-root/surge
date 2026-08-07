@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,cloud.microsoft
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,microsoftonline.com
 # > Twitter & X
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,twitter.com
