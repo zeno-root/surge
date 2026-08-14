@@ -78,7 +78,10 @@ DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,yahoo.com
 # > Game
+DOMAIN-KEYWORD,steam
 DOMAIN-SUFFIX,supercell.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,gameloft.com
 # > Other
 DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,discord
@@ -89,11 +92,8 @@ DOMAIN-KEYWORD,reddit
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,akamai
 DOMAIN-KEYWORD,quora
-DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,amazon
 DOMAIN-SUFFIX,notion.com
-DOMAIN-SUFFIX,epicgames.com
-DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,deepl.com
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.com
